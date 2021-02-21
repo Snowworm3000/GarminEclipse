@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\applicationFiles\EclipseWorkspace\TestWatchface2\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2App.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2App.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2App.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2App.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2App.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2App.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="8" lineNum="8" pc="268435531" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="8" lineNum="9" pc="268435535" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="9" lineNum="13" pc="268435554" symbol="onLayout"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="9" lineNum="14" pc="268435558" symbol="onLayout"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="10" lineNum="20" pc="268435596" symbol="onShow"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="11" lineNum="23" pc="268435601" symbol="printText"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="11" lineNum="24" pc="268435605" symbol="printText"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="11" lineNum="25" pc="268435641" symbol="printText"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="12" lineNum="36" pc="268435714" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="12" lineNum="38" pc="268435718" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="12" lineNum="39" pc="268435735" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="12" lineNum="40" pc="268435809" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="12" lineNum="41" pc="268435833" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="12" lineNum="48" pc="268435850" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="13" lineNum="54" pc="268435871" symbol="onHide"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="14" lineNum="58" pc="268435876" symbol="onExitSleep"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\TestWatchface2\\source\\TestWatchface2View.mc" id="15" lineNum="62" pc="268435881" symbol="onEnterSleep"/>
+        <entry filename="Rez" id="21" lineNum="15" pc="268435886" symbol="WatchFace"/>
+        <entry filename="Rez" id="21" lineNum="18" pc="268435898" symbol="WatchFace"/>
+        <entry filename="Rez" id="21" lineNum="20" pc="268436079" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="15" method="true" symbol="printText"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="9" object="true" symbol="TestWatchface2App"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="10" object="true" symbol="TestWatchface2View"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry arg="true" endPc="268435596" name="dc" stackId="1" startPc="268435554"/>
+        <entry arg="true" endPc="268435714" name="dc" stackId="1" startPc="268435601"/>
+        <entry arg="true" endPc="268435714" name="data" stackId="2" startPc="268435601"/>
+        <entry endPc="268435870" name="view" stackId="4" startPc="268435718"/>
+        <entry endPc="268435870" name="timeString" stackId="3" startPc="268435718"/>
+        <entry endPc="268435870" name="clockTime" stackId="2" startPc="268435718"/>
+        <entry arg="true" endPc="268435871" name="dc" stackId="1" startPc="268435714"/>
+        <entry endPc="268436096" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435898"/>
+        <entry arg="true" endPc="268436097" name="dc" stackId="1" startPc="268435886"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="150" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="229" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="268" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="299" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="330" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="369" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="400" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="439" parentId="globals" symbolId="TestWatchface2View" type="class"/>
+        <dataEntry offset="542" parentId="globals" symbolId="TestWatchface2App" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="TestWatchface2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="TestWatchface2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="TestWatchface2App">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="TestWatchface2App">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TestWatchface2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="TestWatchface2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="TestWatchface2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="printText" parent="TestWatchface2View">
+            <param id="dc"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="TestWatchface2View">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="TestWatchface2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="TestWatchface2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="TestWatchface2View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

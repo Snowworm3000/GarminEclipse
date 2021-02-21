@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="connectiq.launcher.AppLauncher">
+    <stringAttribute key="connectiq.debugInfo" value="D:\applicationFiles\EclipseWorkspace\BluetoothControl\bin\BluetoothControl.prg.debug.xml"/>
+    <stringAttribute key="connectiq.prg" value="D:\applicationFiles\EclipseWorkspace\BluetoothControl\bin\BluetoothControl.prg"/>
+    <stringAttribute key="connectiq.project" value="BluetoothControl"/>
+    <stringAttribute key="connectiq.targetDevice" value="fr735xt"/>
+    <stringAttribute key="connectiq.targetSdk" value="2.4.0"/>
+    <stringAttribute key="connectiq.workingDir" value="D:\applicationFiles\EclipseWorkspace\BluetoothControl"/>
+</launchConfiguration>

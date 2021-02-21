@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <bitmap id="id_monkey" x="center" y="center" filename="../drawables/monkey.png" />
+    <label id="text" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE"></label>
+    </layout>

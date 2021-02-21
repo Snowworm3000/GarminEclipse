@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Comm/manifest.xml&apos; to &apos;manifest.xml.old&apos;" description="Rename resource &apos;manifest.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="manifest.xml" name="manifest.xml.old" stamp="1612699839965" updateReferences="true"/>
+</session>

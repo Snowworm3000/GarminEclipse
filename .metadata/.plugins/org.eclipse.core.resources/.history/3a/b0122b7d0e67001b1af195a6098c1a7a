@@ -1,0 +1,15 @@
+using Toybox.System;
+using Toybox.WatchUi;
+
+class BluetoothDelegate extends Ui.BehaviorDelegate {
+    // Detect Menu behavior
+    function onMenu() {
+        System.println("Menu behavior triggered");
+        return false; // allow InputDelegate function to be called
+    }
+    // Detect Menu button input
+    function onKey(keyEvent) {
+        System.println(keyEvent.getKey()); // e.g. KEY_MENU = 7
+        return true;
+    }
+}

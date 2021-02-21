@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="D:\applicationFiles\EclipseWorkspace\CameraShutter\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="4" lineNum="12" pc="268435479" symbol="onLayout"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="4" lineNum="13" pc="268435483" symbol="onLayout"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="5" lineNum="19" pc="268435521" symbol="onShow"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="6" lineNum="23" pc="268435526" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="6" lineNum="24" pc="268435530" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="6" lineNum="25" pc="268435554" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="6" lineNum="27" pc="268435571" symbol="onUpdate"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterView.mc" id="7" lineNum="34" pc="268435592" symbol="onHide"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterApp.mc" id="9" lineNum="5" pc="268435597" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterApp.mc" id="9" lineNum="6" pc="268435601" symbol="initialize"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterApp.mc" id="10" lineNum="10" pc="268435620" symbol="onStart"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterApp.mc" id="11" lineNum="14" pc="268435625" symbol="onStop"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterApp.mc" id="12" lineNum="18" pc="268435630" symbol="getInitialView"/>
+        <entry filename="D:\\applicationFiles\\EclipseWorkspace\\CameraShutter\\source\\CameraShutterApp.mc" id="12" lineNum="19" pc="268435634" symbol="getInitialView"/>
+        <entry filename="Rez" id="18" lineNum="16" pc="268435672" symbol="MainLayout"/>
+        <entry filename="Rez" id="18" lineNum="18" pc="268435684" symbol="MainLayout"/>
+        <entry filename="Rez" id="18" lineNum="19" pc="268435803" symbol="MainLayout"/>
+        <entry filename="Rez" id="18" lineNum="20" pc="268435855" symbol="MainLayout"/>
+        <entry filename="Rez" id="18" lineNum="22" pc="268436018" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="15" method="true" symbol="MainLayout"/>
+        <entry id="9" object="true" symbol="CameraShutterView"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="16" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="13" symbol="id_monkey"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="10" object="true" symbol="CameraShutterApp"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435591" name="view" stackId="2" startPc="268435530"/>
+        <entry arg="true" endPc="268435592" name="dc" stackId="1" startPc="268435526"/>
+        <entry arg="true" endPc="268435625" name="state" stackId="1" startPc="268435620"/>
+        <entry arg="true" endPc="268435630" name="state" stackId="1" startPc="268435625"/>
+        <entry endPc="268436045" name="rez_cmp_local_text_text" stackId="3" startPc="268435684"/>
+        <entry endPc="268436045" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268435684"/>
+        <entry arg="true" endPc="268436046" name="dc" stackId="1" startPc="268435672"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="150" parentId="globals" symbolId="CameraShutterApp" type="class"/>
+        <dataEntry offset="221" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="300" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="347" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="448" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="479" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="518" parentId="globals" symbolId="CameraShutterView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="CameraShutterView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="CameraShutterView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="CameraShutterView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="CameraShutterView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="CameraShutterView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="CameraShutterApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="CameraShutterApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="CameraShutterApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="CameraShutterApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
